@@ -1,0 +1,13 @@
+.nav-default {
+  height: 100px;
+  vertical-align: middle;
+}
+.content {
+  width: 75%;
+  text-align: center;
+}
+.logo-main {
+  width: 100%;
+  height: auto;
+  margin: 50px 0;
+}
