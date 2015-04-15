@@ -11,3 +11,19 @@
   height: auto;
   margin: 50px 0;
 }
+.inner-addon {
+  position: relative;
+}
+.inner-addon .fa {
+  position: absolute;
+  padding: 10px;
+}
+.right-addon .fa { right: 20px; }
+.right-addon input { padding-right: 30px; }
+footer {
+  margin-top: 200px;
+}
+.button button{
+  margin: 10px;
+  font-size: 12px;
+}
